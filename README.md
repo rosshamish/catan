@@ -1,8 +1,6 @@
 # catan
 
-projects related to the board game Settlers of Catan, in pursuit of  
-1. high-quality catan AI, and  
-2. catan broadcast tooling (think poker on tv)
+projects in pursuit of a high-quality catan AI and catan broadcast tooling (think poker on tv)
 
 > Author: Ross Anderson ([rosshamish](https://github.com/rosshamish))
 
